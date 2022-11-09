@@ -1,6 +1,6 @@
 {
     "name": "22-0726-2140-makecode_customblock-servocontinuous-ef_wukong_pinsblue",
-    "version": "0.2.2",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
