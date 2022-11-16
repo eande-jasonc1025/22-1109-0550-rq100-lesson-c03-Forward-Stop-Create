@@ -1,6 +1,6 @@
 {
     "name": "22-1109-0550-rq100-lesson-c03-Forward-Stop-Create ",
-    "version": "0.0.2",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
